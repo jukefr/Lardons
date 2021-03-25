@@ -1,4 +1,11 @@
-# 🥓 Lardons
+<div align="center">
+  <a href="https://github.com/jukefr/AnarchyX">
+  <img width="100%;"  src="https://user-images.githubusercontent.com/2154296/112429253-b3430480-8d3c-11eb-9c2e-8fcbd00702ad.png">
+  </a>
+  <br>
+</div>
+
+Note: Will be updating this project and modernizing it very soon.
 
 **[strapi, mongo, nuxt, docker-compose]**
 _"full stack framework"_ for the modern times
